@@ -1,19 +1,21 @@
 export const Colors = {
   // Languages
-  go: '#00ADD8',
-  python: '#4B8BBE',
+  php: '#4f5b93',
   typescript: '#234A84',
-  javascript: '#F7DF1E',
+  javascript: '#f6dd1d',
 
   // Frontend
   web: '#2D2D2D',
   react: '#61DAF6',
   nextjs: '#000000',
 
+  // WordPress
+  wordpress: '#0073aa',
+  woocommerce: '#7f54b3',
+
   // Backend
-  graphql: '#E535AB',
   node: '#68A063',
-  django: '#092E20',
+  graphql: '#E535AB',
 
   // Tools, Libs
   webpack: '#8DD6F9',
@@ -26,7 +28,7 @@ export const Colors = {
   ios: '#0C76E2',
 
   // Databases
-  arangodb: '#68A063',
+  mysql: '#ea8c10',
   postgres: '#336791',
   mongo: '#4DB33D',
   redis: '#D82C20',
@@ -45,7 +47,6 @@ export const Colors = {
   // Social
   linkedin: '#0077B5',
   twitter: '#1DA1F2',
-  youtube: '#FF0000',
   email: '#D44638',
   buymeacoffee: '#FFDD00',
   reddit: '#ff4500',

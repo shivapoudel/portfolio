@@ -1,18 +1,18 @@
 ---
-name: Karan Pratap Singh
-shortname: Karan
+name: Shiva Poudel
+shortname: Shiva
 avatar: /static/avatar.jpg
-occupation: Software Engineer
-company: Curebase
-resume: /static/Karan_Resume.pdf
-email: contact@karanpratapsingh.com
-twitter: https://twitter.com/karan_6864
-linkedin: https://www.linkedin.com/in/karan99
-github: https://github.com/karanpratapsingh
+occupation: Staff Software Engineer
+company: Genese Solution
+resume: /static/Shiva_Resume.pdf
+email: contact@shivapoudel.com
+twitter: https://twitter.com/iamshivapoudel
+linkedin: https://www.linkedin.com/in/iamshivapoudel
+github: https://github.com/shivapoudelQui dignissimos in cPossimus quo proide
 ---
 
 A software engineer who values learning and growing with people, teams, and technologies.
 
-Presently, I am working as a Software Engineer at [Curebase](https://www.curebase.com) where I am helping to build a decentralized clinical trial platform while scaling infrastructure with a focus on security, HIPAA, and GDPR compliance.
+Presently, I am working as a Staff Software Engineer at [Genese Solution](https://www.genesesolution.com) where I am helping to build a platform while scaling infrastructure with a focus on security, and GDPR compliance.
 
-Previously I've worked with the Digitization Program Office (DPO) at the [Smithsonian Institution](https://www.si.edu) as a consulting Full Stack Engineer in collaboration with the Office of the Chief Information Officer (OCIO).
+Previously I've worked with the [WEBO Digital](https://webo.digital) as a Senior Software Engineer and [ThemeGrill Pvt. Ltd.](https://themegrill.com) as a Senior WordPress Developer.

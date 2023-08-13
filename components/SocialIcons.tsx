@@ -11,7 +11,6 @@ import {
 import {
   SiBuymeacoffee as BuymeacoffeeIcon,
   SiGmail as MailIcon,
-  SiYoutube as YoutubeIcon,
 } from 'react-icons/si';
 import { Maybe, Tuple } from 'types';
 
@@ -50,10 +49,6 @@ function resolveIcon(entry: Tuple<string>): React.ReactNode {
 
     case ContactType.github:
       icon = <GithubIcon {...props} />;
-      break;
-
-    case ContactType.youtube:
-      icon = <YoutubeIcon {...props} />;
       break;
 
     case ContactType.email:

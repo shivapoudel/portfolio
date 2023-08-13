@@ -1,22 +1,21 @@
 const siteMetadata = {
-  title: 'Karan Pratap Singh',
-  author: 'Karan Pratap Singh',
-  headerTitle: 'Karan Pratap Singh',
+  title: 'Shiva Poudel',
+  author: 'Shiva Poudel',
+  headerTitle: 'Shiva Poudel',
   description:
     'A software engineer who values learning and growing with people, teams, and technologies.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://karanpratapsingh.com',
-  siteRepo: 'https://github.com/karanpratapsingh/portfolio',
+  siteUrl: 'https://shivapoudel.com',
+  siteRepo: 'https://github.com/shivapoudel/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/avatar.jpg',
   socialBanner: '/static/banner.png',
-  email: 'contact@karanpratapsingh.com',
-  github: 'https://github.com/karanpratapsingh',
-  twitter: 'https://twitter.com/karan_6864',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'contact@shivapoudel.com',
+  github: 'https://github.com/shivapoudel',
+  twitter: 'https://twitter.com/iamshivapoudel',
+  facebook: 'https://facebook.com/iamshivapoudel',
+  linkedin: 'https://www.linkedin.com/in/iamshivapoudel',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
